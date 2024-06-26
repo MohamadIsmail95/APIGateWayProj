@@ -1,0 +1,6 @@
+@Oona.AppWebOne_HostAddress = http://localhost:5062
+
+GET {{Oona.AppWebOne_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
